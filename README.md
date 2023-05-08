@@ -21,8 +21,10 @@ Para la función ZOI la única variable que requiero es donde se guardo la image
 Procedimiento para pasar la matriz 
 A a la matriz B.
 
-<img src="imagenes/imagen_3.png" width="100"/>
-<img src="imagenes/imagen_4.png" width="50"/>
-<img src="imagenes/imagen_5.png" width="100"/>
+<p align="center">
+	<img src="imagenes/imagen_3.png" width="100"/>
+	<img src="imagenes/imagen_4.png" width="50"/>
+	<img src="imagenes/imagen_5.png" width="100"/>
+</p
 
 ![Badge Matlab](https://img.shields.io/badge/Matlab%20-FC6D26)
